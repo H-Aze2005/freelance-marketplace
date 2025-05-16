@@ -41,7 +41,7 @@ $recentOrders = $stmt->fetchAll();
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Admin Dashboard - FreelanceHub</title>
+  <title>Admin Dashboard - GigAnt</title>
   <link rel="stylesheet" href="../css/styles.css">
   <style>
     .admin-container {

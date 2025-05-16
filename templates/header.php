@@ -7,7 +7,7 @@ if (!function_exists('isLoggedIn')) {
 <header>
   <div class="container">
     <div class="logo">
-      <a href="index.php">FreelanceHub</a>
+      <a href="index.php">GigAnt</a>
     </div>
     
     <nav>

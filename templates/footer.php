@@ -2,7 +2,7 @@
   <div class="container">
     <div class="footer-grid">
       <div class="footer-column">
-        <h3>FreelanceHub</h3>
+        <h3>GigAnt</h3>
         <p>Connect with talented freelancers to get your projects done quickly and efficiently.</p>
       </div>
       
@@ -40,7 +40,7 @@
     </div>
     
     <div class="footer-bottom">
-      <p>&copy; <?= date('Y') ?> FreelanceHub. All rights reserved.</p>
+      <p>&copy; <?= date('Y') ?> GigAnt. All rights reserved.</p>
     </div>
   </div>
 </footer>

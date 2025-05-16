@@ -71,7 +71,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $_SESSION['name'] = $name;
         $_SESSION['is_admin'] = 0;
         
-        $_SESSION['success'] = "Registration successful! Welcome to FreelanceHub.";
+        $_SESSION['success'] = "Registration successful! Welcome to GigAnt.";
         
         // Redirect to dashboard or intended page
         if (isset($_SESSION['redirect_after_login'])) {
@@ -95,7 +95,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Register - FreelanceHub</title>
+  <title>Register - GigAnt</title>
   <link rel="stylesheet" href="css/styles.css">
   <style>
     .register-container {

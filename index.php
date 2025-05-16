@@ -14,7 +14,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>FreelanceHub - Find & Hire Top Freelancers</title>
+  <title>GigAnt - Find & Hire Top Freelancers</title>
   <link rel="stylesheet" href="css/styles.css">
   <link rel="stylesheet" href="css/home.css">
 </head>
@@ -87,7 +87,7 @@
     
     <section class="how-it-works">
       <div class="container">
-        <h2>How FreelanceHub Works</h2>
+        <h2>How GigAnt Works</h2>
         <div class="steps">
           <div class="step">
             <div class="step-icon">1</div>
